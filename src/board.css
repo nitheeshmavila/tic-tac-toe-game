@@ -10,3 +10,7 @@
     height: 66px;
     display: flex;
 }
+
+.status {
+    color: black;
+}
