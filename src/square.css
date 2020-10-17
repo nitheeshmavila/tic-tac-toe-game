@@ -4,4 +4,15 @@
     border: 1px solid;
     border-color: #bfbaba;
     background-color: rgb(255, 255, 255);
+    font-size: xx-large;
+}
+
+.winnerSquare {
+    width: 66px;
+    height: 66px;
+    border: 1px solid;
+    border-color: #bfbaba;
+    background-color: rgb(181 230 191);
+    font-size: xx-large;
+    color: green;
 }
